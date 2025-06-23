@@ -11,7 +11,7 @@ Run the image with the options pid host that allows us to see the utilization of
 ## Run the script
 Run the script that has the network and configuration. on this step containernet will pull Linux images to simulate each host and turn them on.
 ![screenshoot](images/run_script.png)
-![screenshoot](images/creating_container.png)
+![screenshoot](images/creating_containers.png)
 ## Check 
 check the configuration of the hosts
 ![screenshoot](images/host1_config.png)
